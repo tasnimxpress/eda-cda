@@ -44,4 +44,4 @@ Analyzing:
 
 ![Summer data agg](https://user-images.githubusercontent.com/59725045/193448480-96187983-d231-4426-83d8-0eecdb7bce6b.png)
 
-Viewing the bar graph we can say that the assumption was incorrect. Instead of technology, Office supplies sale the highest in summer.
+Analyzing the bar graph we can easily say that the assumption was incorrect. Instead of technology, Office supplies sale the highest in summer.
